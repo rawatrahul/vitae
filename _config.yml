@@ -1,0 +1,35 @@
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: :title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://localhost:3000
+author: Rahul Rawat
+
+# edit this section with your information
+
+# for a normal use at the base of the server change it to "/"
+baseurl: /
+title: Rahul Rawat's Resume
+name: Rahul Rawat
+email: rahulrawat593
+email_full: mailto:rahulrawat593@gmail.com
+website: github.io/rawatrahul
+website_full: https://rawatrahul.github.io/
+github: rawatrahul
+twitter: rahulsalutes
+tel: +91 961 123 8555
+tel_full: tel:+919611238555
+google_maps: 'https://goo.gl/maps/3xJCaFNZd662'
+address: 245 KHB Colony
+postcode: 560095
+city: Bangalore
+country: India
+#google_analytics: 
+
+# needed for travis-ci build
+exclude: [vendor]
