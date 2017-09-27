@@ -29,7 +29,7 @@ address: 245 KHB Colony
 postcode: 560095
 city: Bangalore
 country: India
-#google_analytics: 
+google_analytics: UA-107132683-1
 
 # needed for travis-ci build
 exclude: [vendor]
