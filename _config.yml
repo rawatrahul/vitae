@@ -25,10 +25,10 @@ twitter: rahulsalutes
 tel: +91 961 123 8555
 tel_full: tel:+919611238555
 google_maps: 'https://goo.gl/maps/3xJCaFNZd662'
-address: 245 KHB Colony
-postcode: 560095
-city: Bangalore
-country: India
+address: E Orange St
+postcode: 85281
+city: Tempe
+country: AZ
 google_analytics: UA-107132683-1
 
 # needed for travis-ci build
